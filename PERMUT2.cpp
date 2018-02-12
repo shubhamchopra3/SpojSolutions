@@ -39,12 +39,6 @@ int main()
            cout<<"not ambiguous"<<endl;
        }
       
-      
-       
-        
-        
-        
-       
     }  // end of while loop
     
 
